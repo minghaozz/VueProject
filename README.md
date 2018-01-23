@@ -1,6 +1,6 @@
 # awesomepos
 
-> A Vue.js project
+> A Vue.js project 这是我的第一个Vue.js项目 同时感谢jsPang的视频教程 http://jspang.com/
 
 ## Build Setup
 
